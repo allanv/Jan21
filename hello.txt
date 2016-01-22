@@ -1,3 +1,2 @@
 hi there  (repo copy)
-This is my local copy.  (staged copy)
-My staged copy doesn't have this.
+
